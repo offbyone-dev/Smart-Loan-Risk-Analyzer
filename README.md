@@ -75,10 +75,9 @@ ROC-AUC Score: 0.76
 ![Prediction](images/prediction.png)
 
 ---
-
 ## Project Structure
 
----
+```
 Smart-Loan-Risk-Analyzer
 │
 ├── app
@@ -98,37 +97,37 @@ Smart-Loan-Risk-Analyzer
 │   └── exploration.ipynb
 │
 ├── src
-│   ├── train_model.py
+│   └── train_model.py
 │
 ├── requirements.txt
 ├── runtime.txt
 └── README.md
+```
 
----
 
 ## Run Locally
 
 Clone the repository
+---
+```
+git clone https://github.com/offbyone-dev/Smart-Loan-Risk-Analyzer.git
+```
 
----
-git clone
-https://github.com/offbyone-dev/Smart-Loan-Risk-Analyzer.git
----
 
 Go to the project directory
-
 ---
+```
 cd Smart-Loan-Risk-Analyzer
----
+```
 
 Install dependencies
-
 ---
+```
 pip install -r requirements.txt
----
+```
 
 Run the Streamlit app
-
 ---
+```
 streamlit run app/streamlit_app.py
----
+```
