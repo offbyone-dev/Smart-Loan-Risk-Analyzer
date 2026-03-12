@@ -1,17 +1,17 @@
-# Smart Loan Risk Analyzer
+# 🧠 Smart Loan Risk Analyzer
 
 A Machine Learning web application that predicts loan approval risk using applicant financial and demographic information.  
 The project includes a trained ML model and an interactive Streamlit dashboard where users can input applicant data and receive a prediction along with probability analysis and visual insights.
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
 https://smart-loan-risk-analyzer-zngw4cvieuds5yvzlhtjaq.streamlit.app/
 
 ---
 
-## Project Overview
+## 🚀 Project Overview
 
 This project uses machine learning techniques to analyze loan application data and predict whether an applicant is likely to be approved or rejected for a loan.
 
@@ -21,7 +21,7 @@ The dashboard also includes visualizations such as probability gauges, feature i
 
 ---
 
-## Features
+## ⚙️ Features
 
 - Loan approval risk prediction
 - Interactive Streamlit dashboard
@@ -33,7 +33,7 @@ The dashboard also includes visualizations such as probability gauges, feature i
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 Python  
 Scikit-learn  
@@ -47,7 +47,7 @@ Joblib
 
 ---
 
-## Machine Learning Model
+## 🤖 Machine Learning Model
 
 Primary Model  
 Random Forest Classifier
@@ -57,14 +57,14 @@ Logistic Regression
 
 ---
 
-## Model Performance
+## 📊 Model Performance
 
 Accuracy: 0.79  
 ROC-AUC Score: 0.76
 
 ---
 
-## Screenshots
+## 🖼 Screenshots
 
 ### Dashboard
 
@@ -75,7 +75,7 @@ ROC-AUC Score: 0.76
 ![Prediction](images/prediction.png)
 
 ---
-## Project Structure
+## 📂 Project Structure
 
 ```
 Smart-Loan-Risk-Analyzer
@@ -105,7 +105,7 @@ Smart-Loan-Risk-Analyzer
 ```
 
 
-## Run Locally
+## 💻 Run Locally
 
 Clone the repository
 ---
