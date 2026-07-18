@@ -11,7 +11,7 @@ https://smart-loan-risk-analyzer-zngw4cvieuds5yvzlhtjaq.streamlit.app/
 
 ---
 
-## 🚀Project Overview
+## Project Overview
 
 This project uses machine learning techniques to analyze loan application data and predict whether an applicant is likely to be approved or rejected for a loan.
 
@@ -21,7 +21,7 @@ The dashboard also includes visualizations such as probability gauges, feature i
 
 ---
 
-## ⚙️Features
+## Features
 
 - Loan approval risk prediction
 - Interactive Streamlit dashboard
@@ -47,7 +47,7 @@ Joblib
 
 ---
 
-## 🤖Machine Learning Model
+## Machine Learning Model
 
 Primary Model  
 Random Forest Classifier
@@ -57,14 +57,14 @@ Logistic Regression
 
 ---
 
-## 📊Model Performance
+## Model Performance
 
 Accuracy: 0.79  
 ROC-AUC Score: 0.76
 
 ---
 
-## 🖼Screenshots
+## Screenshots
 
 ### Dashboard
 
