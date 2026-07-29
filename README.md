@@ -11,6 +11,7 @@ https://smart-loan-risk-analyzer-zngw4cvieuds5yvzlhtjaq.streamlit.app/
 
 ---
 
+
 ## Project Overview
 
 This project uses machine learning techniques to analyze loan application data and predict whether an applicant is likely to be approved or rejected for a loan.
@@ -20,6 +21,7 @@ The application is built with Streamlit to provide an interactive dashboard wher
 The dashboard also includes visualizations such as probability gauges, feature importance charts, confusion matrix, and ROC curve to help understand the model's behavior.
 
 ---
+
 
 ## Features
 
